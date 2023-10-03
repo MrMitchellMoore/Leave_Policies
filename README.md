@@ -1,4 +1,5 @@
-# Leave_Policies
+![image](https://github.com/MrMitchellMoore/Leave_Policies/assets/10389750/e44d3bc5-f5c3-4ae1-b84c-87fefc74ace8)
+
 
 ## There are different types of leave policies. We will be focusing on maternity and paternity leave
 
