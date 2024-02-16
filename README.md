@@ -31,5 +31,10 @@ The U.S doesn’t have a national paid family leave policy. The length of matern
 # Tools Used
 ## I used SQL Big Query to clean the data and for the data transformation. I check for nullable fields in the company and industry fields. The fields for paternity and maternity had N/A as the value to substitute for empty fields. I decided to make them blank so they can be a factor in my analysis. I used Tableau for my analysis and visualization.
 
+# Exploratory Data Analysis
+## I used SQL Big Query to do the exploratory analysis. Some interesting facts that I found when making queries in SQL:
+- Its not really a surprise that there are more companies that offer maternity leave than paternity leave, but by how much. It is a difference of 1288.
+- Both Technology and Finance Industries offer the most paid leaves for maternity and paternity.  
+
 ## You can go to my dash board at [Leave Policies](https://public.tableau.com/views/LeavePolicies/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 ## Also you can check out the presentation which I downloaded as PDFs in this repository.
