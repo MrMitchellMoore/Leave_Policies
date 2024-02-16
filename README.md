@@ -37,4 +37,4 @@ The U.S doesn’t have a national paid family leave policy. The length of matern
 - Both Technology and Finance Industries offer the most paid leaves for maternity and paternity.  
 
 ## You can go to my dash board at [Leave Policies](https://public.tableau.com/views/LeavePolicies/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-## Also you can check out the presentation which I downloaded as PDFs in this repository.
+## Also you can check out the presentation which I downloaded as PDFs in this repository and it shows the recommendations.
